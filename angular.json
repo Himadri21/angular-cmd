@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-helloworld-example"
+    }
+  },
+  "defaultProject": "angular-helloworld-example",
+  "cli": {
+    "analytics": false
+  }
 }
